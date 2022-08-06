@@ -5,6 +5,7 @@ import express from 'express'
 // api logic
 const app = express()
 // commands for discord bot
+
 // discord bot logic
 
 // Create a new client instance
