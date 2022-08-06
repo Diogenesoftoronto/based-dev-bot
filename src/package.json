@@ -1,0 +1,26 @@
+{
+  "name": "based-dev-bot-app",
+  "version": "0.0.1",
+  "description": "a simple bot for my discord server that reveals those honest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diogenesoftoronto/based-dev-bot.git"
+  },
+  "keywords": [
+    "discordjs",
+    "bot",
+    "discord",
+    "honesty",
+    "diogenes"
+  ],
+  "author": "diogenesoftoronto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diogenesoftoronto/based-dev-bot/issues"
+  },
+  "homepage": "https://github.com/Diogenesoftoronto/based-dev-bot#readme"
+}
